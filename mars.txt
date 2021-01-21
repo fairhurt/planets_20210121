@@ -1,1 +1,3 @@
 Mars is cold and dry.
+
+Adding some additional text to the file.
